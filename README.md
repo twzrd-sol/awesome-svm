@@ -76,6 +76,7 @@ A curated list of projects and resources utilizing the Solana Virtual Machine (S
 | SVM Wallet Maker | Python script to bulk-create wallets for Solana and other SVM-based blockchains | Active | [GitHub](https://github.com/svm-wallet-maker) |
 | Chainlink Data Streams Solana | Repository for Data Streams Solana (SVM) Related Code | Active | [GitHub](https://github.com/smartcontractkit/chainlink-solana) |
 | AEAMCP | Decentralized AI agent and MCP server registry platform on Solana, powered by $SVMAI token | Active | [Website](https://aea.network), [GitHub](https://github.com/openSVM/aeamcp) |
+| TWZRD Agent Intel | Solana-native x402 MCP server for AI agent trust scoring — free on-chain preflight checks + paid signed V5 trust receipts | Active | [Website](https://intel.twzrd.xyz), [GitHub](https://github.com/twzrd-sol/wzrd-final) |
 
 ### Development Stage Projects
 
